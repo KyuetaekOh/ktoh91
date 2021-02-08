@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### CV: https://www.notion.so/kyuetaekoh/Kyuetaek-Oh-8c140e5dd5fd47b191d3a632f3bcd408
 <!--
 **KyuetaekOh/kyuetaekoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
